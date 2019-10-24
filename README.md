@@ -23,6 +23,6 @@ Kontroliranje PWM z Nucleo L476RG
 da je to neskončna zanka.</p>
 
 <h4>Komentar delovanja</h4>
-<p>S programom nastavljamo širino pulza in hitrost frekvence.</p>
+<p>S programom nastavljamo širino pulza in hitrost frekvence. Pri izdelavi sva imela probleme z delovanjem, ker so bili neuporabni pini vklopljeni. To sva seveda popravila tako, da sva spremenila PIN configuracijo in ponovno izdelala program.</p>
 
 <p>Ustvarila Nik Vogrinec in Luka Voje</p>
