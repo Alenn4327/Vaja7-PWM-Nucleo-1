@@ -22,4 +22,7 @@ Kontroliranje PWM z Nucleo L476RG
 <p>3) Preveri, če je vrednost dutyCycle-a večja od 90, če je potem nastavi dutyCycle nazaj na 10, kar pomeni
 da je to neskončna zanka.</p>
 
+<h4>Komentar delovanja</h4>
+<p>S programom nastavljamo širino pulza in hitrost frekvence.</p>
+
 <p>Ustvarila Nik Vogrinec in Luka Voje</p>
