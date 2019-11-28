@@ -13,6 +13,9 @@ Kontroliranje PWM z Nucleo L476RG
 <h3>Kaj pomeni parameter Generation Channel pulse?</h3>
 <p>Vrednost širine pulza. Nastavimo ga na 50%.</p>
 
+<h3>Parameter pulse v kodi</h3>
+<p>sConfigOC.Pulse = 50; </p>
+
 <h3>V kodi spremenite vrednost širine pulza ba 25%, zapišite popravljen ukaz</h3>
 <p>sConfigOC.Pulse = 25; </p>
 
